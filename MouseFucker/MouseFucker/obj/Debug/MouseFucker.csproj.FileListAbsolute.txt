@@ -1,0 +1,10 @@
+C:\Users\rickt\source\repos\MouseFucker\MouseFucker\bin\Debug\MouseFucker.exe.config
+C:\Users\rickt\source\repos\MouseFucker\MouseFucker\bin\Debug\MouseFucker.exe
+C:\Users\rickt\source\repos\MouseFucker\MouseFucker\bin\Debug\MouseFucker.pdb
+C:\Users\rickt\source\repos\MouseFucker\MouseFucker\obj\Debug\MouseFucker.csprojAssemblyReference.cache
+C:\Users\rickt\source\repos\MouseFucker\MouseFucker\obj\Debug\MouseFucker.Form1.resources
+C:\Users\rickt\source\repos\MouseFucker\MouseFucker\obj\Debug\MouseFucker.Properties.Resources.resources
+C:\Users\rickt\source\repos\MouseFucker\MouseFucker\obj\Debug\MouseFucker.csproj.GenerateResource.cache
+C:\Users\rickt\source\repos\MouseFucker\MouseFucker\obj\Debug\MouseFucker.csproj.CoreCompileInputs.cache
+C:\Users\rickt\source\repos\MouseFucker\MouseFucker\obj\Debug\MouseFucker.exe
+C:\Users\rickt\source\repos\MouseFucker\MouseFucker\obj\Debug\MouseFucker.pdb
